@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\bin\Debug\ReadingInput.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\bin\Debug\ReadingInput.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\bin\Debug\ReadingInput.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\obj\Debug\ReadingInput.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\obj\Debug\ReadingInput.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\obj\Debug\ReadingInput.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\ReadingInput\ReadingInput\obj\Debug\ReadingInput.csprojAssemblyReference.cache
