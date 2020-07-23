@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arrays\Arrays\obj\Debug\Arrays.pdb
