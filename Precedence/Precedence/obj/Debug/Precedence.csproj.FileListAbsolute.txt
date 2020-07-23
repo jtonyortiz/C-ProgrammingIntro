@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\bin\Debug\Precedence.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\bin\Debug\Precedence.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\bin\Debug\Precedence.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\obj\Debug\Precedence.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\obj\Debug\Precedence.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\obj\Debug\Precedence.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Precedence\Precedence\obj\Debug\Precedence.pdb
