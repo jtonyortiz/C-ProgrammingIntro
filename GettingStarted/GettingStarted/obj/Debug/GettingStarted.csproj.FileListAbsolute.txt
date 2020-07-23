@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
