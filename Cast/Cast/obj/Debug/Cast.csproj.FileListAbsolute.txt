@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\bin\Debug\Cast.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\bin\Debug\Cast.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\bin\Debug\Cast.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\obj\Debug\Cast.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\obj\Debug\Cast.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\obj\Debug\Cast.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Cast\Cast\obj\Debug\Cast.pdb
