@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\bin\Debug\KeyValue.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\bin\Debug\KeyValue.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\bin\Debug\KeyValue.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\obj\Debug\KeyValue.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\KeyValue\KeyValue\obj\Debug\KeyValue.pdb
