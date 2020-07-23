@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Assignment\Assignment\obj\Debug\Assignment.pdb
