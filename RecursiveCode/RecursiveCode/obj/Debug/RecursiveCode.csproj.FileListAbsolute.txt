@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\bin\Debug\RecursiveCode.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\bin\Debug\RecursiveCode.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\bin\Debug\RecursiveCode.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\obj\Debug\RecursiveCode.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\obj\Debug\RecursiveCode.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\obj\Debug\RecursiveCode.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\RecursiveCode\RecursiveCode\obj\Debug\RecursiveCode.csprojAssemblyReference.cache
