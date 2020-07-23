@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\bin\Debug\Constant.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\bin\Debug\Constant.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\bin\Debug\Constant.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\obj\Debug\Constant.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Constant\Constant\obj\Debug\Constant.pdb
