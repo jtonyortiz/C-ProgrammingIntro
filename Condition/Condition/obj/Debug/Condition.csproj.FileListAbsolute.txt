@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\bin\Debug\Condition.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\bin\Debug\Condition.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\bin\Debug\Condition.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\obj\Debug\Condition.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\obj\Debug\Condition.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\obj\Debug\Condition.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Condition\Condition\obj\Debug\Condition.pdb
