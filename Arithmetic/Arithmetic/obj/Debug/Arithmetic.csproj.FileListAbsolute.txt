@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\james\OneDrive\Documents\C#ProgrammingIntro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
